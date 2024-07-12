@@ -65,7 +65,7 @@ def app():
             <div style="border: 2px solid #4f8bf9; padding: 20px; height: 220px; width: 300px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: rgba(235, 245, 255, 0.5);">
                 <div style="text-align: center;">
                     <h3 style="margin: 0;">Harsh Chitaliya</h3>
-                    <p style="font-size: 18px;">👩‍💻 Data Scientist</p>
+                    <p style="font-size: 18px;">👩‍💻 Machine Learning Engineer</p>
                 </div>
                 <div style="margin-top: 20px;">
                     <p style="font-size: 16px;">Email: harshchitaliya010@gmail.com</p>
